@@ -1,2 +1,1 @@
-# matrix-numpy
- Code to run matrices calculus (adding, multiplying matrices, determinant etc.)
+# My studies of python libraries Pandas, Numpy and Matplotlib
